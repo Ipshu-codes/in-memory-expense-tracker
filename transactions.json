@@ -1,0 +1,18 @@
+[
+  {
+    "id": 2,
+    "type": "expense",
+    "amount": 500,
+    "category": "Food",
+    "note": "Lunch with friends",
+    "date": "2026-10-04"
+  },
+  {
+    "id": 3,
+    "type": "expense",
+    "amount": 300,
+    "category": "Transport",
+    "note": "Bus to college",
+    "date": "2026-10-03"
+  }
+]

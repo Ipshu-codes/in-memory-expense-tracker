@@ -1,0 +1,26 @@
+{
+  "name": "in-memory-expense-tracker",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A Node.js REST API for managing expenses using an in-memory array, JSON file persistence, async/await, and Bearer token authentication.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ipshu-codes/in-memory-expense-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ipshu-codes/in-memory-expense-tracker/issues"
+  },
+  "homepage": "https://github.com/Ipshu-codes/in-memory-expense-tracker#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0"
+  }
+}
